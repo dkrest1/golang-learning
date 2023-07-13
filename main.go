@@ -2,5 +2,7 @@ package main
 
 func main () {
 	// typeGo()
-	stringFunc()
+	// stringFunc()
+	// challenge2()
+	function()
 }
