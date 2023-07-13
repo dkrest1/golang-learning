@@ -1,5 +1,6 @@
 package main
 
 func main () {
-	challengeOne()
+	// typeGo()
+	stringFunc()
 }
